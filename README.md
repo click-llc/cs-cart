@@ -1,2 +1,7 @@
-# CS Cart addon
-Click Uzbekistan addon for CS Cart
+#CS Cart
+
+Аддон для CS Cart для интеграции платежный системы Click Узбекистан  
+
+#### Требования
+
+- CS Cart 4.5.x
